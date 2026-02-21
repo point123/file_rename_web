@@ -11,7 +11,7 @@ let allHandles = []; // original handler
 let filteredHandles = []; // filterd and sorted handler
 let activeExts = new Set();
 let currentPage = 1;
-const pageSize = 10;
+const pageSize = 15;
 let sortField = 'name';
 let sortDesc = false;
 
